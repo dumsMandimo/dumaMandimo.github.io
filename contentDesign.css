@@ -1,0 +1,84 @@
+
+    h1{
+      font-family: 'Arial';
+      text-align: center;
+      font-size: 36px;
+      font-weight: bold;
+      color: #54738e;
+      align-items: center;
+      text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+    }
+
+    nav ul {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      
+    }
+  
+    nav ul li {
+      margin-bottom: 20px;
+      margin-right: 10px;
+    }
+
+    navu ul li:last-cild{
+      margin-right: 0;
+    }
+  
+    nav ul li a {
+      font-size: 15px;
+      text-align: center;
+      text-decoration: none;
+      font-family: 'Arial';
+      color: #7297a0;
+      display: block;
+      padding: 10px;
+      background-color: #ccc;
+      text-decoration: none;
+      border-radius: 5px; 
+    }
+
+    h2{
+      text-align: left;
+      font-family: 'Arial';
+      color: #82ac7c;
+      text-decoration: underline;
+    }
+
+    body{
+      background-color: beige;
+    }
+
+    html{
+      scroll-behavior: smooth;
+    }
+
+    .back-to-top {
+      position: fixed;
+      right: 2rem;
+      bottom: 2rem;
+      border: none;
+      background-color: gray;
+      border-radius: 10px; /*rounded*/
+      cursor: pointer;
+      padding: 10px;
+    }
+
+    .back-to-top:hover{
+      background-color: beige;
+    }
+
+    
+
+    
+
+
+
+
+
+    
+
+  
