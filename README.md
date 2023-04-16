@@ -1,1 +1,1 @@
-# dumaMandimo.github.io
+# dumsMandimo.github.io
